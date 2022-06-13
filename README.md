@@ -1,7 +1,7 @@
 <h2>InfiniteBackrooms</h2>
 
 <p>
-This is a Unity project for a VRChat world containing a procedurally-generated, infinite liminal space.<br>I've put it here for other people to learn from, or use for their own projects.<br>If you just want to try the world, the VRC world link is <a href="https://vrchat.com/home/world/wrld_c92b276b-c002-4a83-a9ca-99456820abbb">right here!</a>
+This is a Unity project for a VRChat world containing a procedurally-generated, infinite liminal space.<br>I've put it here for other people to learn from (I made sure to put lots of comments into my code), or use for their own projects.<br>If you just want to try the world, the VRC world link is <a href="https://vrchat.com/home/world/wrld_c92b276b-c002-4a83-a9ca-99456820abbb">right here!</a>
 </p>
 
 <h2>Project Setup</h2>
